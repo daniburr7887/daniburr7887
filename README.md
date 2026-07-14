@@ -1,6 +1,6 @@
 # Hello there lovely human 💖
 <!--
-**davis7887/davis7887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**daniburr7887/daniburr7887** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * Love exploring what I can do with data using SQL, R, and Tableau. They make the data make sense 🙌
 
 ### 📚 Projects 📚
-* Click [HERE](https://github.com/davis7887/Portfolio-Guide/blob/main/README.md) for my projects 
+* Click [HERE](https://github.com/daniburr7887/Portfolio-Guide/blob/main/README.md) for my projects 
 
 ### 📈 Competencies 📈
 * Tools: SQL, R, Tableau, Excel/Sheets
@@ -39,5 +39,5 @@ Here are some ideas to get you started:
 * Refining data wrangling and cleaning skills in R Studio
 
 ### 🌟 Connect 🌟
-* [LinkedIn](https://www.linkedin.com/in/danielle-davis-560152142/)
+* [LinkedIn](https://www.linkedin.com/in/danielle-burr-560152142/)
 * [Kaggle](https://www.kaggle.com/danid7878)
